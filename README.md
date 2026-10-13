@@ -1,5 +1,5 @@
 ## Arunima Das
-Welcome to my personal portfolio! I’m a third-year CSE undergraduate at Bangladesh University of Professionals and a Microsoft Student Ambassador (Beta).
+Welcome to my personal portfolio!
 
 ## About Me
 
